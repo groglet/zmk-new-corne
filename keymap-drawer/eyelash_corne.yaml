@@ -63,7 +63,7 @@ layers:
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: F14, h: Navi}
-  - {t: A, s: fr ae}
+  - '&fr_ae'
   - S
   - D
   - F
