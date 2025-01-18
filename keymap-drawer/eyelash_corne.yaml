@@ -63,7 +63,7 @@ layers:
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: F14, h: Navi}
-  - {t: A, s: Sft+A}
+  - {t: A, s: fr ae}
   - S
   - D
   - F
@@ -131,7 +131,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: 'Sft+[', s: 'Sft+{'}
   - {t: 'Sft+]', s: 'Sft+}'}
-  - {t: 'Sft+$$mdi:backspace$$', type: backspace}
+  - {t: 'Ctl+$$mdi:backspace$$', type: backspace}
   - MUTE
   - $$mdi:arrow-down-bold$$
   - $$mdi:backspace-reverse-outline$$
