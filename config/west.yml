@@ -16,8 +16,8 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: zmk-helpers
+    - name: zmk-auto-layer
       remote: urob
-      revision: main
+      revision: main # set to same version as zmk
   self:
     path: config
